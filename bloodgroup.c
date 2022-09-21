@@ -3,6 +3,7 @@
 void main()
 { char Name[40], G[5], answer[10];
   int i;
+  printf("I am A. I change something to this file na kub\n");
   do
   {
     printf("What is your Name? ");
